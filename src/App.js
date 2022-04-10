@@ -2,7 +2,7 @@ import React from 'react'
 import Aprospos from './Project/A_Prospos'
 import Navbar from '../src/Project/components/Navbar'
 
-import { BrowserRouter, Routes,Link, Route } from 'react-router-dom'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
 
 function App() {
