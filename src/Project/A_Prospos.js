@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react'
+import React from 'react'
 import { Articles, Footer, Header, Services, Wrapper } from './A_ProsposStyle'
 import logo from './assets/logo.png'
 import pen from './assets/pen.png'
